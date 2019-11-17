@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Beat Locations</title>
+        <script type="text/javascript" src="vue.js"></script>
+    </head>
+    <body>
+        <div id="app">
+            From:<input type=text v-model="origin">
+            To:<input type=text v-model="destination">
+            <iframe width="50%" src="">
+                
+            </iframe>
+        </div>
+    </body>
+    <script type="text/javascript" src="vue.js">
+    var vueapp=new Vue({
+        el:"#app",data:{
+origin:"hebbal",
+destination:"mathikere"
+        }
+    });
+    </script>
+</html>
