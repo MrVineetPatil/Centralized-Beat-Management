@@ -28,14 +28,16 @@ Might need to install Android Studio with the Android SDK and JDK for exporting 
 
 
 WEB:
-cd KSP_Web
-npm install
-npm build
-npm run dev
+cd KSP_Web;npm install;npm build;npm run dev
 
 TEAM NOWXORNEVER
+
 KRUTHIKA K
+
 ROSEMARY BINOY
+
 POOJA KUMARI
+
 ARAVIND RAVVA
+
 VINEET PATIL 
