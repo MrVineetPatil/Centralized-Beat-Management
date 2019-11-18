@@ -25,3 +25,17 @@ If Android and iOS support is required, Android Development and iOS Development 
 
 Deployment
 Might need to install Android Studio with the Android SDK and JDK for exporting to an Android device.
+
+
+WEB:
+cd KSP_Web
+npm install
+npm build
+npm run dev
+
+TEAM NOWXORNEVER
+KRUTHIKA K
+ROSEMARY BINOY
+POOJA KUMARI
+ARAVIND RAVVA
+VINEET PATIL 
